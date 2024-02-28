@@ -5,6 +5,8 @@ Cette commande, écrit en Pascal (Turbo Pascal ou Free Pascal), permet de conver
 
 ICONV [-f format] source [-o target] [-t format]
 
+<h3>Paramètres</h3>
+
 <table>
   <tr>
     <th>Nom</th>
