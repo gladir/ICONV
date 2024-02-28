@@ -27,8 +27,7 @@ ICONV [-f format] source [-o target] [-t format]
     <td>Ce paramètre permet d'indiquer le nom du fichier destinatire.</td>
   </tr>
   <tr>
-    <td><b>-t</b>
-    <td><i>format</i></td>
+    <td><b>-t</b> <i>format</i></td>
     <td>Ce paramètre permet d'indiquer le format destinaire.</td>
   </tr>
   <tr>
